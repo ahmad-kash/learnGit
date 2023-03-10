@@ -1,1 +1,7 @@
-"<?php echo 'test'" 
+<?php
+class Test
+{
+    public function __construct(Test $test)
+    {
+    }
+}
